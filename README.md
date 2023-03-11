@@ -1,4 +1,4 @@
-#  <p class="center"> привет ! я игорь</p> 👋
+# <p class="center">Hi! I'm Igor </p>👋
 ___
 
 <!--
