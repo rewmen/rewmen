@@ -1,4 +1,5 @@
-# <p class="center">Hi! I'm Igor </p>👋
+# <p class="center">Hi! I'm Igor </p>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
 ___
 
 <!--
