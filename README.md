@@ -1,4 +1,4 @@
-# <h1 class="center">Hi there! I'm Igor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
+# <h1 align="center"> Hi there! I'm Igor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
 ___
 
 <!--
