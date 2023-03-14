@@ -1,8 +1,7 @@
 <h1 align="center"> Hi there! I'm Igor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
 <h3 align="center"> I'm from Ukraine ua</h3>
 ___
-<h3 align="center"<img src="💻"/>/>
-
+<h3 align="center"> <img src="💻" height="25" /></h3>
 <!--
 **rewmen/rewmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
