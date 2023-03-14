@@ -1,6 +1,7 @@
 # <h1 align="center"> Hi there! I'm Igor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
+
 ___
-<h3 align="center">
+<h3 align="center"<img src=":computer:">>
 
 <!--
 **rewmen/rewmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
