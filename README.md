@@ -1,8 +1,7 @@
 <h1 align="center"> Hi there! I'm Igor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
-<!-- <h3 align="center"> I'm from Ukraine <img src="https://www.emojiall.com/ru/emoji/%F0%9F%87%BA%F0%9F%87%A6" height="30"/></h3> -->
- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-___
-<h3 align="center"> <img src="" height="25" /></h3>
+<h3 align="center"> I'm from Ukraine <img src="[https://www.emojiall.com/ru/emoji/%F0%9F%87%BA%F0%9F%87%A6](https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-ukraine_1f1fa-1f1e6.png)" height="20"/></h3>
+
+
 <!--
 **rewmen/rewmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
