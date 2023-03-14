@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Igor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
-<h3 align="center"> I'm from Ukraine <img src="https://www.emojiall.com/ru/emoji/%F0%9F%87%BA%F0%9F%87%A6" height="30"/></h3>
-<!-- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<!-- <h3 align="center"> I'm from Ukraine <img src="https://www.emojiall.com/ru/emoji/%F0%9F%87%BA%F0%9F%87%A6" height="30"/></h3> -->
+ <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 ___
 <h3 align="center"> <img src="" height="25" /></h3>
 <!--
